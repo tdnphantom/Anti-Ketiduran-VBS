@@ -1,1 +1,1 @@
-shutdown -s -t 600
+.\shutdown -s -t 600
