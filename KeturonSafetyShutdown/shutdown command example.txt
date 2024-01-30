@@ -1,0 +1,5 @@
+# To Shut down the System, argument -t stands for time. counts in Seconds #
+shutdown -s -t 600
+
+# To Cancel the System Shutdown #
+shutdown -a
