@@ -12,7 +12,7 @@ Step by step :
 
 About :
 
-As I said above, this script is intended to automatically shut down the system After a configured Time (default is 15min) if the user(You) unintentionally falls asleep.
+As I said above, this script is intended to automatically shut down the system After a configured Time (15min idle, and a 10min shutdown countdown will be executed by default) if the user(You) unintentionally falls asleep.
 This script is made and intended AS IS, and nothing else. This hope extends your machine life by shutting it down when you aren't using it, also. Reducing the bills (hopefully)
 
 
